@@ -1,0 +1,17 @@
+body {
+  width: 800px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: black;
+  color: wheat;
+  border: 1px solid white;
+}
+h1 {
+  text-shadow: 5px 5px 5px rgb(245, 70, 70);
+}
+.js {
+  width: 145px;
+  background-color: rgb(58, 58, 58);
+  padding: 10px;
+  border-radius: 10px;
+}
